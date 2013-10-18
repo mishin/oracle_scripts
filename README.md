@@ -1,0 +1,1 @@
+My Oracle tips for session
